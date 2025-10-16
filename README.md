@@ -52,7 +52,7 @@ Built with **HTML, CSS, and JavaScript**, showing how algorithms shape maze comp
 
 ### 🌍 Let's Connect
 📫 **Email:** [s.mbatha398@gmail.com](mailto:s.mbatha398@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/siphamandla-mbatha-040b43192](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siphamandla-mbatha-040b43192)  
+💼 **LinkedIn:** [linkedin.com/in/siphamandla-mbatha-040b43192](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siphamandla-mbatha-040b43192))  
 🧠 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
