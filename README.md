@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sphamandla Mbatha
 
-🎓 Former Mechatronics Engineering student turned Computer Science enthusiast — passionate about **software engineering**, **data systems**, and **building things that think**.  
+🎓 Im a Computer Science enthusiast — passionate about **software engineering**, **data systems**, and **building things that think**.  
 💡 Currently focused on **data engineering**, **backend development**, and **automation pipelines**.
 
 ---
