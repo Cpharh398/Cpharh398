@@ -43,8 +43,8 @@ Built with **HTML, CSS, and JavaScript**, showing how algorithms shape maze comp
 A mobile app that connect service providers such as plumbers, mechanics, etc to customers in need **Mobile app coming soon to andriod**.
 
 
-#### 🧩 [Help a buddy](https://github.com/Cpharh398/Maze.git)
-A crowd funding web app that creates a platfom for individuals to seek financial help **Web app still in development**.  
+#### 🧩 [Help a buddy](https://github.com/Cpharh398/buddy.git)
+A crowd funding web app that creates a platfom for individuals to seek financial help --Web app still in development--.  
 ---
 
 ### 🌍 Let's Connect
