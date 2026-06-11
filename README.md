@@ -39,7 +39,7 @@ Includes dynamic speed, collision detection, and score tracking.
 A web app that visualizes **different maze generation algorithms** (DFS, Prim’s, Kruskal’s, etc.) in real time.  
 Built with **HTML, CSS, and JavaScript**, showing how algorithms shape maze complexity and pathfinding.
 
-#### 🧩 [Connect](marketplace-dad1b.web.app)
+#### 🧩 [Connect](https://marketplace-dad1b.web.app)
 A mobile app that connect service providers such as plumbers, mechanics, etc to customers in need **Mobile app coming soon to andriod**.
 
 
